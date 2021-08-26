@@ -1,5 +1,5 @@
-# Interpolation laboratory for Numerical Methods course
+# Interpolation laboratory within the Numerical Methods Team
 
-// Taiatu Iulian 312CB
+Author: Taiatu Iulian 312CB
 
 Live project: https://www.overleaf.com/read/xcygggkhbvvs
